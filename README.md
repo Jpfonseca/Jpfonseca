@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-📫 How to reach me:
+[📫](https://visitor-badge.glitch.me/badge?page_id=Jpf0nseca) How to reach me:
 
 [Keybase](https://keybase.io/jpfonseca)
 
