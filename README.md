@@ -7,7 +7,7 @@
 
 👨‍🔧Ocassionally taking care of [🐧GLUA's](https://github.com/GLUA-UA) Linux  Distros [Mirrors](https://glua.ua.pt/pub/).
 
-
+📖Here you can find the lastet version of my [CV](https://jpfonseca.github.io/CV/JoaoFonsecaCV.pdf)
 
 <br/>
 <br/>
@@ -19,7 +19,6 @@
 [LinkedIn](https://www.linkedin.com/in/jpedrofonseca/)
 
 [Twitter](https://twitter.com/Jpf0ns3ca)
-
 
 
 <!--
