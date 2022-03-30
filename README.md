@@ -1,9 +1,11 @@
 ### Hey there 👋, hope you're doing fine 
 <br/>
 
-👨‍💻  I am a Researcher at [Instituto de Telecomunicações (IT)](https://it.pt/).
+📜 I am a MAP-i PhD student.
 
-💻Currently using Archlinux with [Sway](https://swaywm.org/) everyday.Check my [✍️📄Dotfiles](https://github.com/Jpfonseca/Ghostfiles)
+👨‍💻 Currently I work as a Jr. Consultant/Engineer at Capgemini Engineering. 
+
+💻Currently using Windows or Archlinux with [Sway](https://swaywm.org/) everyday.Check my [✍️📄Dotfiles](https://github.com/Jpfonseca/Ghostfiles)
 
 👨‍🔧Ocassionally taking care of [🐧GLUA's](https://github.com/GLUA-UA) Linux  Distros [Mirrors](https://glua.ua.pt/pub/).
 
