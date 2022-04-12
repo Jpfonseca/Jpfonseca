@@ -3,11 +3,13 @@
 
 📜 I am a MAP-i PhD student.
 
-👨‍💻 Currently I work as a Jr. Consultant/Engineer at Capgemini Engineering. 
+👨‍💻 Currently I work as a R&D Jr. Consultant/Engineer at Capgemini Engineering. 
 
 💻Currently using Windows or Archlinux with [Sway](https://swaywm.org/) everyday.Check my [✍️📄Dotfiles](https://github.com/Jpfonseca/Ghostfiles)
 
 👨‍🔧Ocassionally taking care of [🐧GLUA's](https://github.com/GLUA-UA) Linux  Distros [Mirrors](https://glua.ua.pt/pub/).
+
+📝 Here you can find some publications I helped write as author/co-author [ResearchGate](https://www.researchgate.net/profile/Joao-Fonseca-49)
 
 📖Here you can find the lastet version of my [CV](https://jpfonseca.github.io/CV/JoaoFonsecaCV.pdf)
 
