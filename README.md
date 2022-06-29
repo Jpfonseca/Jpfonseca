@@ -12,18 +12,15 @@
 📝 Here you can find some publications I helped write as author/co-author [ResearchGate](https://www.researchgate.net/profile/Joao-Fonseca-49)
 
 📖Here you can find the lastet version of my [CV](https://jpfonseca.github.io/CV/JoaoFonsecaCV.pdf)
-
-<br/>
 <br/>
 
 [📫](https://visitor-badge.glitch.me/badge?page_id=Jpf0nseca) How to reach me:
 
-[Keybase](https://keybase.io/jpfonseca)
+- [Keybase](https://keybase.io/jpfonseca)
+- [LinkedIn](https://www.linkedin.com/in/jpedrofonseca/)
+- [Twitter](https://twitter.com/Jpf0ns3ca)
 
-[LinkedIn](https://www.linkedin.com/in/jpedrofonseca/)
-
-[Twitter](https://twitter.com/Jpf0ns3ca)
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jpfonseca&count_private=true&show_icons=true&theme=nord)
 
 <!--
 **Jpfonseca/Jpfonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
