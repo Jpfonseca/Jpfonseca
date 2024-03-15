@@ -1,9 +1,9 @@
-### Hey there 👋, hope you're doing fine 
+### Hey there friend👋, hope you're doing fine 
 <br/>
 
 📜 I am a MAP-i PhD student.
 
-👨‍💻 Currently I work in Telecom R&D projects at Capgemini Engineering. 
+👨‍💻 Currently I work in Telecom R&D projects at Iquadrat. 
 
 💻Currently running Archlinux with [Sway](https://swaywm.org/) on a daily basis. Check out my [✍️📄Dotfiles](https://github.com/Jpfonseca/Ghostfiles)
 
