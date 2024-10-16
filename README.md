@@ -9,9 +9,8 @@
 
 👨‍🔧Ocasionally taking care of [🐧GLUA's](https://github.com/GLUA-UA) Linux  Distros [Mirrors](https://glua.ua.pt/pub/).
 
-📝 Here you can find some publications I co-authored: [ResearchGate](https://www.researchgate.net/profile/Joao-Fonseca-49)
+📝  Information about me, as well as my CV or publications that I co-authored is available on my [Webpage](https://jpfonseca.github.io/)
 
-📖Lastly check my [CV](https://jpfonseca.github.io/CV/JoaoFonsecaCV.pdf)
 <br/>
 
 [📫](https://visitor-badge.glitch.me/badge?page_id=Jpf0nseca) How to reach me:
