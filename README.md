@@ -13,16 +13,10 @@ Ocassilnaly I help [GLUA](https://github.com/GLUA-UA). You can find more informa
 
 [![GLUA Mirrors](https://img.shields.io/badge/GLUA_Mirrors-Website-181717?style=for-the-badge)](https://glua.ua.pt/pub/)
 
-### 📝 More About Me
-For more information about me, including my CV and publications that I have co-authored:
+### 📝 Learn More About Myself and 📫 How You can Reach Me
 
-[![Webpage](https://img.shields.io/badge/Webpage-Visit-181717?style=for-the-badge)](https://jpfonseca.github.io/)
-
-### 📫 How to Reach Me
-You can reach me through the following platforms:
-
-[![Keybase](https://img.shields.io/badge/Keybase-Profile-181717?style=for-the-badge&logo=keybase)](https://keybase.io/jpfonseca)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jpedrofonseca/)
+For other details about me, such as my contact details, resume, and co-authored publications:
+[![Webpage](https://img.shields.io/badge/Webpage-Visit-181717?style=for-the-badge)](https://jpfonseca.net/)
 
 <!--
 **Jpfonseca/Jpfonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
