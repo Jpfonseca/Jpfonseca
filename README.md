@@ -16,6 +16,7 @@ Ocassilnaly I help [GLUA](https://github.com/GLUA-UA). You can find more informa
 ### 📝 Learn More About Myself and 📫 How You can Reach Me
 
 For other details about me, such as my contact details, resume, and co-authored publications:
+
 [![Webpage](https://img.shields.io/badge/Webpage-Visit-181717?style=for-the-badge)](https://jpfonseca.net/)
 
 <!--
