@@ -1,25 +1,28 @@
-### Hey there friend👋, hope you're doing fine 
-<br/>
+# Hi there, I'm João Pedro Fonseca 👋
 
-📜 I am a MAP-i PhD student.
+### 👨‍💻 Currently Working On
+I work in Telecom R&D projects at Iquadrat, focusing on innovative solutions and technologies in the telecommunications sector.
 
-👨‍💻 Currently I work in Telecom R&D projects at Iquadrat. 
+### 💻 My Setup
+I'm a passionate Archlinux user with [Sway](https://swaywm.org/) as my window manager of choice. Check out my dotfiles repository for a peek into my workflow:
 
-💻Currently running Archlinux with [Sway](https://swaywm.org/) on a daily basis. Check out my [✍️📄Dotfiles](https://github.com/Jpfonseca/Ghostfiles)
+[![Dotfiles](https://img.shields.io/badge/Dotfiles-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Jpfonseca/Ghostfiles)
 
-👨‍🔧Ocasionally taking care of [🐧GLUA's](https://github.com/GLUA-UA) Linux  Distros [Mirrors](https://glua.ua.pt/pub/).
+### 👨‍🔧 Community Involvement
+Ocassilnaly I help [GLUA](https://github.com/GLUA-UA). You can find more information about the Linux mirrors here:
 
-📝  Information about me, as well as my CV or publications that I co-authored is available on my [Webpage](https://jpfonseca.github.io/)
+[![GLUA Mirrors](https://img.shields.io/badge/GLUA_Mirrors-Website-181717?style=for-the-badge)](https://glua.ua.pt/pub/)
 
-<br/>
+### 📝 More About Me
+For more information about me, including my CV and publications that I have co-authored:
 
-[📫](https://visitor-badge.glitch.me/badge?page_id=Jpf0nseca) How to reach me:
+[![Webpage](https://img.shields.io/badge/Webpage-Visit-181717?style=for-the-badge)](https://jpfonseca.github.io/)
 
-- [Keybase](https://keybase.io/jpfonseca)
-- [LinkedIn](https://www.linkedin.com/in/jpedrofonseca/)
-- [Twitter](https://twitter.com/Jpf0ns3ca)
+### 📫 How to Reach Me
+You can reach me through the following platforms:
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jpfonseca&count_private=true&show_icons=true&theme=nord)
+[![Keybase](https://img.shields.io/badge/Keybase-Profile-181717?style=for-the-badge&logo=keybase)](https://keybase.io/jpfonseca)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jpedrofonseca/)
 
 <!--
 **Jpfonseca/Jpfonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
