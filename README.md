@@ -17,7 +17,7 @@ Ocassilnaly I help [GLUA](https://github.com/GLUA-UA). You can find more informa
 
 For other details about me, such as my contact details, resume, and co-authored publications:
 
-[![Webpage](https://img.shields.io/badge/Webpage-Visit-181717?style=for-the-badge)](https://jpfonseca.net/)
+[![Webpage](https://img.shields.io/badge/Webpage-Visit-181717?style=for-the-badge)](https://www.jpfonseca.net/)
 
 <!--
 **Jpfonseca/Jpfonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
