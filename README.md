@@ -1,9 +1,9 @@
 # Hi there, I'm João Pedro Fonseca 👋
 
 ### 👨‍💻 Currently Working On
-I work in Telecom R&D projects at Iquadrat, focusing on innovative solutions and technologies in the telecommunications sector.
+I am a Senior Network Engineer at Onomondo. Onomondo is a global IoT connectivity provider focused on simplifying and optimizing cellular connectivity for IoT devices worldwide. 
 
-### 💻 My Setup
+### 💻 My Personal Setup
 I'm a passionate Archlinux user with [Sway](https://swaywm.org/) as my window manager of choice. Check out my dotfiles repository for a peek into my workflow:
 
 [![Dotfiles](https://img.shields.io/badge/Dotfiles-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Jpfonseca/Ghostfiles)
